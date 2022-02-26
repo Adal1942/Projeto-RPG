@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+.icon
+{
+    text-align: center;
+}
+.icon h2 a
+{
+    position: relative;
+    color: #111;
+    font-size: 1.5em;
+    font-weight: normal;
+    text-shadow: 0 10px 10px rgb(66, 66, 66);
+    text-decoration: none;
+    overflow: hidden;
+}
